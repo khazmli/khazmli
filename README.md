@@ -1,4 +1,4 @@
-https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif
+<img  src="https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif" />
 <h1 align="center">Hi 👋, I'm Kazimli Togrul</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 

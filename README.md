@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif
+[https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
 <h1 align="center">Hi 👋, I'm Kazimli Togrul</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 

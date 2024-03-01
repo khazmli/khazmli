@@ -1,4 +1,4 @@
-[https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif](https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif)
+https://dresma.ai/wp-content/uploads/2022/01/mern-stack-developer.gif
 <h1 align="center">Hi 👋, I'm Kazimli Togrul</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
